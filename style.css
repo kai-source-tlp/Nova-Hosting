@@ -1,0 +1,4 @@
+body{font-family:Arial,sans-serif;background:#0f172a;color:white;margin:0}
+header{display:flex;justify-content:space-between;padding:20px;background:#111827}
+a{color:#60a5fa;margin:10px;text-decoration:none}
+.hero{text-align:center;padding:100px 20px}
